@@ -14,7 +14,7 @@ RAWG is the largest video game database and game discovery service with 500,000+
 * Hadoop
 * Yarn
 * HDFS
-* Python
+* Python 3.8
 * Git/GitHub
 
 ## Data Set Used
