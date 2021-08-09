@@ -18,4 +18,4 @@ RAWG is the largest video game database and game discovery service with 500,000+
 * Git/GitHub
 
 ## Data Set Used
-* [Data Set](https://api.rawg.io/docs/)
+* [RAWG Data Set API](https://api.rawg.io/docs/)
