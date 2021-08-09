@@ -7,7 +7,6 @@ RAWG is the largest video game database and game discovery service with 500,000+
 * Which is the top most rated games accross all platform
 * Which game dev has realise most games in year
 
-
 ## Tech Stack Used
 * Pyspark
 * Spark
