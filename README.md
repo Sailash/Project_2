@@ -8,7 +8,7 @@ RAWG is the largest video game database and game discovery service with 500,000+
 * Which game developers has released most games
 * Which game genres has most games
 * Maximum number of games realise by years
-* Which game was first updated
+* Games with short time update
 
 ## Softwares Used
 * Python
